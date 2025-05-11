@@ -7,7 +7,7 @@ I'm **Prerna Prakash**, a junior undergrad at **KIIT University**. I love buildi
 
 ## 🔥 GitHub Stats
 
-![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prernaxa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+(![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prernaxa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 )
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prernaxa&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prernaxa&theme=tokyonight)
@@ -36,9 +36,9 @@ I'm **Prerna Prakash**, a junior undergrad at **KIIT University**. I love buildi
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prernaprakash28/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prerna.ecjbi7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=vercel&logoColor=white)](https://portfolio-prerna.vercel.app/)
 
 ---
 
