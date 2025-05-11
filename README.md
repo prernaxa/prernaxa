@@ -8,7 +8,6 @@ I'm **Prerna Prakash**, a junior undergrad at **KIIT University**. I love buildi
 ## 🔥 GitHub Stats
 
 (![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prernaxa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prernaxa&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prernaxa&theme=tokyonight)
 
