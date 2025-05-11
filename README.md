@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm passionate about **cloud computing, DevOps**, 
 ## 💡 About Me
 
 - 🎓 Final-year engineering student
-- 🌱 Currently learning **DevOps on AWS**
 - 🧠 Interested in **AI, React, and Full-Stack Development**
 - ✍️ I also love **content writing**
 - 💬 Always open to learning, collaborating, and exploring new ideas
