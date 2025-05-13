@@ -11,7 +11,8 @@ Hey there! I'm **Prerna Prakash**, a junior undergrad at **KIIT University**. I 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prernaxa&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prernaxa&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=prernaxa&theme=tokyonight)
+
 
 ---
 
