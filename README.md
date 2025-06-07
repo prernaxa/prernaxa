@@ -41,7 +41,6 @@ Hey there! I'm **Prerna Prakash**, a junior undergrad at **KIIT University**. I 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prernaprakash28/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prerna.ecjbi7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=vercel&logoColor=white)](https://portfolio-prerna.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/prernax/)
 
 ---
 
