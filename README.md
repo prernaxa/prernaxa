@@ -1,6 +1,6 @@
 # About Me:
 
-Hey there! I'm **Prerna Prakash**, a junior undergrad at **KIIT University**. I love building cool web apps, exploring new technologies, and bringing creative ideas to life.
+Hey there! I'm **Prerna Prakash**, a senior undergrad at **KIIT University**. I love building cool web apps, exploring new technologies, and bringing creative ideas to life.
 
 
 ---
