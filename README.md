@@ -44,5 +44,5 @@ Hey there! I'm **Prerna Prakash**, a senior undergrad at **KIIT University**. I 
 
 ---
 
-> *“Strive not to be a success, but rather to be of value.”* – Albert Einstein
+> *“There are two ways to write error-free programs; only the third one works.”*— Alan J. Perlis
 
