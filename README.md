@@ -13,6 +13,8 @@ Hey there! I'm **Prerna Prakash**, a senior undergrad at **KIIT University**. I 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=prernaxa&theme=tokyonight)
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=prernaxa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 
