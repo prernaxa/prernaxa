@@ -1,11 +1,11 @@
 <!-- README HEADER -->
 <h1 align="center">👋 Hi, I'm Prerna</h1>
 <p align="center">
-  <em>Senior at KIIT | Frontend engineer | Builder of things that (mostly) run in browsers</em>
+  <em>I build full stack web apps that (mostly) don’t break. Final-year CS student | Product-focused engineer</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Actively%20seeking%20Frontend%20roles-%2300bfa6?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Actively%20seeking%20SWE%20roles-%2300bfa6?style=for-the-badge&logo=target" />
 </p>
 
 ---
@@ -95,5 +95,4 @@
   <em>“There are two ways to write error-free programs; only the third one works.”</em>  
   — Alan J. Perlis
 </blockquote>
-
 
