@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernaxa&layout=compact&theme=tokyonight" width="300" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=prernaxa&theme=tokyonight" width="450" />
-  <img src="https://github-profile-trophy.vercel.app/?username=prernaxa&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="500" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prernaxa&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="800" />
 </div>
 
 ---
