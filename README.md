@@ -1,19 +1,58 @@
-# About Me:
+# hey, i'm prerna.
 
-hi. I’m prerna. Senior at KIIT.
+senior at KIIT · frontend/product developer · builder of browser things
 
-Builder of things that run (mostly) in browsers.
+i like web development because it’s the perfect mix of **creativity and chaos** — one moment i’m designing clean UI, the next i’m trapped in a 3-hour war with CSS specificity and a ghost z-index that won’t die.
 
-I like web development because it's the perfect mix of creativity and chaos, one moment I’m designing clean UI, the next I’m in a 3-hour war with CSS specificity and some ghost z-index.
+i pick up new stacks not because i need them, but because i have **commitment issues with frameworks**. if it compiles, i’ll try it. if it breaks, i’ll pretend it was a learning experience.
 
-I experiment with new tech stacks not because I need them, but because I have commitment issues with frameworks. If it compiles, I’ll try it. If it breaks, I’ll pretend it was a learning experience.
-
-Currently balancing coursework, side projects, and the existential dread of "what's next?"
-
+currently balancing coursework, side projects, and the existential dread of “what’s next?”  
+(**spoiler: i’m looking for full-time frontend/product engineering roles — open to 2025 starts.**)
 
 ---
 
-## 📊 GitHub Stats
+## 🔧 tech i’ve been building with
+
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Node.js`  
+`MongoDB` · `PostgreSQL` · `Supabase` · `Framer Motion` · `AWS`  
+`Express` · `OpenAI API` · `Clerk` · `Git` · `Postman`
+
+---
+
+## ✨ selected projects
+
+### 🛡️ [PolicyPal](https://github.com/prernaxa/PolicyPal)  
+**AI-powered privacy policy analyzer.** Turns unreadable legalese into clean, structured summaries — complete with risk flags and trust scores.
+
+- Upload PDF, paste text, or submit URL
+- GPT-4o + custom regex NLP for risk detection
+- Flags ad tracking, data retention, third-party sharing, and more
+- User history saved via Clerk + MongoDB
+- **Built with:** Next.js, Tailwind, Framer Motion, OpenAI API, Clerk
+
+---
+
+### 🤝 [Clannit](https://github.com/prernaxa/clannit)  
+**Social habit tracker.** Build micro-habits with your clan — and vote on penalties when someone slacks.
+
+- Real-time group check-ins, penalty suggestions + voting
+- Auth via Supabase, Postgres-backed data layer
+- A little social pressure goes a long way
+- **Built with:** Next.js App Router, Supabase, Tailwind CSS
+
+---
+
+### 🎙️ [Voxcast.ai](https://github.com/prernaxa/voxcast.ai)  
+**AI-generated podcast platform.** Turn scripts into podcast-style voice conversations with customizable character voices.
+
+- Worked on user flow, voice selection UX, and core podcast generation
+- Uses OpenAI API to generate multi-voice dialogue
+- AI-only content is labeled for transparency
+- **Built with:** Next.js, Tailwind, OpenAI API
+
+---
+
+## 📊 github stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prernaxa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
@@ -23,36 +62,16 @@ Currently balancing coursework, side projects, and the existential dread of "wha
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=prernaxa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
 ---
 
-## 🛠️ Tech Stack
+## 🤝 let's connect
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 🤝 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prernaprakash28/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prerna.ecjbi7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prernaprakash28/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prerna.ecjbi7@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=vercel&logoColor=white)](https://portfolio-prerna.vercel.app/)
 
 ---
 
-> *“There are two ways to write error-free programs; only the third one works.”*— Alan J. Perlis
+> *“There are two ways to write error-free programs; only the third one works.”*  
+> — alan j. perlis
 
