@@ -1,6 +1,13 @@
 # About Me:
 
-Hey there! I'm **Prerna Prakash**, a senior undergrad at **KIIT University**. I love building cool web apps, exploring new technologies, and bringing creative ideas to life.
+hi. I’m prerna. Senior at KIIT.
+Builder of things that run (mostly) in browsers.
+
+I like web development because it's the perfect mix of creativity and chaos — one moment I’m designing clean UI, the next I’m in a 3-hour war with CSS specificity and some ghost z-index.
+
+I experiment with new tech stacks not because I need them — but because I have commitment issues with frameworks. If it compiles, I’ll try it. If it breaks, I’ll pretend it was a learning experience.
+
+Currently balancing coursework, side projects, and the existential dread of "what's next?"
 
 
 ---
