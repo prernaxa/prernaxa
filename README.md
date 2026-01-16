@@ -55,7 +55,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-000000?style=flat-square&logo=framer&logoColor=white" />
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -79,12 +78,31 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prernaxa&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernaxa&layout=compact&theme=tokyonight" width="300" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=prernaxa&theme=tokyonight" width="450" />
-  <img src="https://github-profile-trophy.vercel.app/?username=prernaxa&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="800" />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=prernaxa&show_icons=true&theme=tokyonight&cache_seconds=86400"
+    width="400"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernaxa&layout=compact&theme=tokyonight&cache_seconds=86400"
+    width="300"
+  />
+
+  <br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=prernaxa&theme=tokyonight&cache_seconds=86400"
+    width="450"
+  />
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=prernaxa&theme=radical&no-frame=true&margin-w=8"
+    width="800"
+  />
+
 </div>
+
 
 ---
 
